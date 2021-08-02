@@ -1,4 +1,4 @@
-# Oahu June & December Weather
+# Hawaii Weather Analysis
 ## Overview
 Well-defined purpose
 ### Resources
