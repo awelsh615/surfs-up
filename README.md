@@ -1,5 +1,5 @@
 # Oahu June & December Weather
-### Overview
+## Overview
 Well-defined purpose
 ### Resources
 
