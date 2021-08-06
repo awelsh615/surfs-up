@@ -6,5 +6,13 @@ Well-defined purpose
 ## Results
 Bulleted list that address three key differences in weather between June & December.
 
+
+June Weather Statistics:
+
+![June](all_june_temps.PNG)
+
+
+December Weather Statistics:
+![December](
 ## Summary
 High-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
