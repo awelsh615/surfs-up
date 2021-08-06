@@ -26,10 +26,11 @@ December Weather Statistics:
 
 ![December](all_dec_temps.PNG)
 ## Summary
-High-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
-
 The relatively mild temperatures in both June and December suggest an ideal surfing climate year round.  Even in the colder December month, the average temperature is a very pleasant 71°.  The lowest recorded December temperature over the seven-year span is 56°, which would be tolerable to surf in a wetsuit.
 
 The average June and December temperatures are 75° and 71° respectively.  That would indicate that Oahu, Hawaii has remarkably consistent weather throughout the calendar year.  The low temperature in December is fairly low at 56°, but the average of 71° is plenty warm enough for ice cream.
 
-The weather
+## Further Analysis
+If the reader is interested in further analysis, I would recommend the following additional queries:
+- An analysis of the preciptation data for Oahu, Hawaii.  Although temperature certainly affects customers' interested in ice cream and watersports, preciptation can harm the profitability of a business as well.
+- In addition, I would query the humidity of the area, or perhaps the heat index.  Although an average high of 75 sounds blissful, a high humidity percentage could turn a delightful afternoon treat into a sticky afternoon in which customers would rather have dessert indoors.
