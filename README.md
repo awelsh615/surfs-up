@@ -13,6 +13,6 @@ June Weather Statistics:
 
 
 December Weather Statistics:
-![December](
+![December](all_dec_temps.PNG)
 ## Summary
 High-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
